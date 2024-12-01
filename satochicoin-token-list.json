@@ -1,0 +1,27 @@
+{
+  "name": "SatochiCoin Token List",
+  "logoURI": "https://your-logo-url.com/logo.png",
+  "keywords": ["satochicoin", "stc", "crypto", "scarcity"],
+  "timestamp": "2024-12-01T18:32:47+00:00",
+  "tokens": [
+    
+  
+{
+      "chainId": 137,
+      "address": "0x3709132c6aeb5f375394a01e06b0e53b9b65adb9",
+      "symbol": "STC",
+      "name": "SatochiCoin",
+      
+  
+"decimals": 8,
+      "logoURI": "https://ibb.co/DGW8VvH"
+    
+   
+}
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
